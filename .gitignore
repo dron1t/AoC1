@@ -1,0 +1,21 @@
+/AoC1/AoC1/bin/
+/AoC1/AoC1/obj/
+/**/bin/
+/**/obj/
+/**/.idea/
+# Default ignored files
+/shelf/
+/workspace.xml
+# Rider ignored files
+/contentModel.xml
+/projectSettingsUpdater.xml
+/.idea.AoC1.iml
+/modules.xml
+# Datasource local storage ignored files
+/dataSources/
+/dataSources.local.xml
+# Editor-based HTTP Client requests
+/httpRequests/
+**/bin
+**/obj
+**/.idea
